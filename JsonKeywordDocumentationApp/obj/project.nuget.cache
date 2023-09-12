@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FlsJdSdzc6syzNUx8CHni+8teAMUAlIvm8tOzhIEeICdXQKtm3pRTLFp2hK9L7Bzf5DO9fnYihyqrPrLCVlDyA==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\Dotin Class\\03\\JsonKeywordDocumentationApp\\JsonKeywordDocumentationApp\\JsonKeywordDocumentationApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dragon9573\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
